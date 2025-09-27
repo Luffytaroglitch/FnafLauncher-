@@ -40,3 +40,5 @@ __v1.0.0__ - Main code with future updates planned!
 <hr>
 
 >__Finally [here](https://irv77.github.io/FnafLauncher/) is the live version of the code!__
+
+This is a Fanmade Lite version of the Original. This is designed to load the games faster and prevent lag!
